@@ -1,0 +1,30 @@
+body {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+}
+.head1{
+  fill:red
+}
+.head2{
+  fill:blue
+}
+.feather1{
+  fill:green
+}
+.feather2{
+  fill:yellow
+}
+.feather3{
+  fill:pink
+}
+.feather4{
+  fill:purple
+}
+
+svg:hover{
+  fill: white;
+  stroke: darkorange;
+
+}
